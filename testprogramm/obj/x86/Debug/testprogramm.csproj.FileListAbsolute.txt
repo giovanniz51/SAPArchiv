@@ -1,0 +1,10 @@
+\\ST-Profile01\home$\safferta\Desktop\testprogramm\testprogramm\bin\Debug\testprogramm.exe
+\\ST-Profile01\home$\safferta\Desktop\testprogramm\testprogramm\bin\Debug\testprogramm.pdb
+\\ST-Profile01\home$\safferta\Desktop\testprogramm\testprogramm\obj\x86\Debug\testprogramm.exe
+\\ST-Profile01\home$\safferta\Desktop\testprogramm\testprogramm\obj\x86\Debug\testprogramm.pdb
+\\ST-Profile01\home$\safferta\Desktop\testprogramm\testprogramm\obj\x86\Debug\testprogramm.csprojResolveAssemblyReference.cache
+\\ST-Profile01\home$\zitog\Desktop\testprogramm\testprogramm\testprogramm\obj\x86\Debug\testprogramm.exe
+\\ST-Profile01\home$\zitog\Desktop\testprogramm\testprogramm\testprogramm\obj\x86\Debug\testprogramm.pdb
+\\ST-Profile01\home$\zitog\Desktop\testprogramm\testprogramm\testprogramm\bin\Debug\testprogramm.exe
+\\ST-Profile01\home$\zitog\Desktop\testprogramm\testprogramm\testprogramm\bin\Debug\testprogramm.pdb
+\\ST-Profile01\home$\zitog\Desktop\testprogramm\testprogramm\testprogramm\obj\x86\Debug\ResolveAssemblyReference.cache
